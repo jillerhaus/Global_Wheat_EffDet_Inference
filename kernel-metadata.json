@@ -1,6 +1,6 @@
 {
   "id": "johannesillerhaus/infer-effdet",
-  "title": "Infer Efficientdet",
+  "title": "infer-effdet",
   "code_file": "infer-effdet.ipynb",
   "language": "python",
   "kernel_type": "notebook",
