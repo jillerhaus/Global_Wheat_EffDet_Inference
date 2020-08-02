@@ -1,0 +1,14 @@
+{
+  "id": "johannesillerhaus/infer-effdet",
+  "title": "Infer Efficientdet",
+  "code_file": "infer-effdet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": ["mathurinache/efficientdet", "gabrichy/nvidiaapex", "shonenkov/omegaconf", "kaushal2896/pycocotools", "greatgamedota/timm-package", "shonenkov/timm-efficientdet-pytorch","johannesillerhaus/effdetgithub","johannesillerhaus/effdetweights","shonenkov/weightedboxesfusion","shonenkov/wheat-effdet5-fold0-best-checkpoint"],
+  "competition_sources": ["global-wheat-detection"],
+  "kernel_sources": []
+}
+
